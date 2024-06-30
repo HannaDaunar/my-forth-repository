@@ -1,2 +1,2 @@
-# my-forth-repository
+# my forth repository
 my forth repository
